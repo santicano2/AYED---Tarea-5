@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1745973618 source:d:\unla\2025\1er cuatrimestre\algoritmos y estructuras de datos\clase 5 - listas genericas\tarea clase 5 - santiago cano 44303601\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1746111325 d:\unla\2025\1er cuatrimestre\algoritmos y estructuras de datos\clase 5 - listas genericas\tarea clase 5 - santiago cano 44303601\lista.h
+	<string.h>
+	"nodo.h"
+
+1745968161 d:\unla\2025\1er cuatrimestre\algoritmos y estructuras de datos\clase 5 - listas genericas\tarea clase 5 - santiago cano 44303601\nodo.h
+
+1745969518 source:d:\unla\2025\1er cuatrimestre\algoritmos y estructuras de datos\clase 5 - listas genericas\tarea clase 5 - santiago cano 44303601\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1746111717 source:d:\unla\2025\1er cuatrimestre\algoritmos y estructuras de datos\clase 5 - listas genericas\tarea clase 5 - santiago cano 44303601\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
